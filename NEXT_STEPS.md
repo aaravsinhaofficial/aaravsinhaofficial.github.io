@@ -98,6 +98,10 @@ Edit the file and replace all text in `[brackets]` with your actual information:
 3. Verify images display properly
 4. Test on mobile view (resize browser window)
 
+## Optional Cleanup
+
+The `images/` folder still contains ~200 old images from the original template that are no longer used. These don't affect the website but take up repository space. You can safely delete them (except `profile.svg`, `project1.svg`, and the `favicon/` folder) and replace with your own project images.
+
 ## Publishing
 
 Once you've added your content:
