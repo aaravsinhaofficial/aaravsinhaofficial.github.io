@@ -1,0 +1,21 @@
+# Backup files
+*.backup
+*_old.html
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Build artifacts
+node_modules/
+dist/
+
+# Temporary files
+*.tmp
