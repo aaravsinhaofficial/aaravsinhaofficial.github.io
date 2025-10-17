@@ -1,1 +1,1 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is the source code for Aarav Sinha's personal website. Built using a modified version of Jon Barron's website template.
